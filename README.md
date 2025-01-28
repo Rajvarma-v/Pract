@@ -1,3 +1,3 @@
 # Practice repository
 this is my first repository 
-Author - Raj
+Author - Raj Varma
